@@ -6,7 +6,7 @@ import UserCard from "./components/UserCard"
 import SearchBar from "./components/SearchBar"
 import Footer from "./components/Footer"
 
-import { ThemeContext } from "./context/ThemeContext"
+import { ThemeContext } from "./context/ThemeContext.jsx"
 
 function App() {
 
